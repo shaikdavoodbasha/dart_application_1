@@ -193,15 +193,3 @@ void main(){
   obj.add();
   print("\n Line3");
 }
-
-// class Test{
-//   add() async{
-//     Future.delayed(Duration (seconds: 2),()=>print("\n line2"));
-//   }
-// }
-// void main(){
-//   Test obj = Test();
-//   print("\n Line1");
-//   obj.add();
-//   print("\n Line3");
-// }
