@@ -178,7 +178,7 @@
 // void main(){
 //   Test obj = Test();
 //   obj();
-// }
+}
 
 // Dart async and await
 
